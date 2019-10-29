@@ -2,9 +2,9 @@
   <v-container>
     <v-container v-show="valid === false">
       <v-text-field v-model="id" label="Id"></v-text-field>
-      <v-text-field v-model="mpd" type="password" label="mpd" ></v-text-field>
-      <v-btn v-on:click="connexion">Connexion</v-btn>
-      <v-btn v-on:click="ajoutLog">New login</v-btn>
+      <v-text-field v-model="mpd" type="password" label="Password" ></v-text-field>
+      <v-btn v-on:click="connexion">Log In</v-btn>
+      <v-btn v-on:click="ajoutLog">Register</v-btn>
      </v-container>
 
      <v-container v-show="valid">
