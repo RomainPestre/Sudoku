@@ -1,28 +1,23 @@
 <template>
   <v-app>
-    <v-app-bar app>
-      <v-toolbar-title class="headline text-uppercase">
-        <span>Projet WEB</span>
-      </v-toolbar-title>
-      <v-spacer></v-spacer>
-    </v-app-bar>
-
-    <v-content>
-      <HelloWorld/>
-    </v-content>
+    <!--<router-view></router-view>-->
+    <Navbar></Navbar>
+    <router-view></router-view>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
-
+// import HelloWorld from './components/HelloWorld'
+import Navbar from './components/Navbar'
 export default {
   name: 'App',
+
   components: {
-    HelloWorld
+    Navbar
   },
+
   data: () => ({
-    // COUCOU
+    //
   })
 }
 </script>

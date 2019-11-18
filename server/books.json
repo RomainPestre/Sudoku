@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "title": "Regular Expressions",
+    "image": "https://covers.oreillystatic.com/images/9780596528126/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9780596528126.do",
+    "author": "Jeffrey Friedl"
+  },
+  {
+    "id": 1,
+    "title": "Head First SQL",
+    "image": "https://covers.oreillystatic.com/images/9780596526849/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9780596526849.do",
+    "author": "Lynn Beighley"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript: The Definitive Guide",
+    "image": "https://covers.oreillystatic.com/images/9780596805531/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9780596805531.do",
+    "author": "David Flanagan"
+  },
+  {
+    "id": 3,
+    "title": "Learning SQL",
+    "image": "https://covers.oreillystatic.com/images/9780596007270/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9780596007270.do",
+    "author": "Alan Beaulieu"
+  },
+  {
+    "id": 4,
+    "title": "Practical C++ Programming",
+    "image": "https://covers.oreillystatic.com/images/9780596004194/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9780596004194.do",
+    "author": "Steve Oualline"
+  },
+  {
+    "id": 5,
+    "title": "Learning Java",
+    "image": "https://covers.oreillystatic.com/images/0636920023463/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/0636920023463.do",
+    "author": "Patrick Niemeyer, Daniel Leuck"
+  },
+  {
+    "id": 6,
+    "title": "Jenkins 2: Up and Running",
+    "image": "https://covers.oreillystatic.com/images/0636920064602/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/0636920064602.do",
+    "author": "Brent Laster"
+  },
+  {
+    "id": 7,
+    "title": "Programming Clojure",
+    "image": "https://covers.oreillystatic.com/images/9781680502466/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9781680502466.do",
+    "author": "Stuart Halloway, Aaron Bedra"
+  },
+  {
+    "id": 8,
+    "title": "Modern Vim",
+    "image": "https://covers.oreillystatic.com/images/9781680502626/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/9781680502626.do",
+    "author": "Drew Neil"
+  },
+  {
+    "id": 9,
+    "title": "Web Scraping with Python",
+    "image": "https://covers.oreillystatic.com/images/0636920078067/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/0636920078067.do",
+    "author": "Ryan Mitchell"
+  },
+  {
+    "id": 10,
+    "title": "Head First Go",
+    "image": "https://covers.oreillystatic.com/images/0636920054931/lrg.jpg",
+    "moreInfo": "http://shop.oreilly.com/product/0636920054931.do",
+    "author": "Jay McGavren"
+  }
+  
+]
